@@ -1,0 +1,8 @@
+{
+  "name": "Copy of HippoHomesPH",
+  "description": "Premium real estate scanner for Metro Manila. Find direct owner listings across multiple platforms with high-precision AI scanning.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}

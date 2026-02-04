@@ -1,0 +1,25 @@
+
+{
+  "short_name": "HippoHomes",
+  "name": "HippoHomes PH: Asset Scanner",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3203/3203742.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3203/3203742.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#0a0a0a",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#e31e24",
+  "description": "Premium real estate scanner for Metro Manila. Find direct owner listings with AI precision."
+}
